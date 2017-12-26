@@ -1,0 +1,8 @@
+C:\Users\Oleg\Desktop\midpoint_displacement\midpoint_displacement\obj\Debug\midpoint_displacement.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\midpoint_displacement\midpoint_displacement\obj\Debug\midpoint_displacement.MainForm.resources
+C:\Users\Oleg\Desktop\midpoint_displacement\midpoint_displacement\obj\Debug\midpoint_displacement.csproj.GenerateResource.Cache
+C:\Users\Oleg\Desktop\midpoint_displacement\midpoint_displacement\bin\Debug\midpoint_displacement.exe.config
+C:\Users\Oleg\Desktop\midpoint_displacement\midpoint_displacement\bin\Debug\midpoint_displacement.exe
+C:\Users\Oleg\Desktop\midpoint_displacement\midpoint_displacement\bin\Debug\midpoint_displacement.pdb
+C:\Users\Oleg\Desktop\midpoint_displacement\midpoint_displacement\obj\Debug\midpoint_displacement.exe
+C:\Users\Oleg\Desktop\midpoint_displacement\midpoint_displacement\obj\Debug\midpoint_displacement.pdb
